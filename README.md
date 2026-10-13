@@ -1,2 +1,2 @@
-# Affiliate Marketing & Social Media Automation Application
-Lập trình thiết bị di động
+# affiliate-social-automation
+Affiliate and Social Media Marketing Automation System
